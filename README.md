@@ -27,6 +27,10 @@ pip install -r requirements.txt
 ```
 python movie_recommendation.py
 ```
+or
+```
+%run movie_recommendation.ipynb
+```
 
 ## Usage
 - Choose a recommendation method (genre, actor, or popularity) when prompted.
